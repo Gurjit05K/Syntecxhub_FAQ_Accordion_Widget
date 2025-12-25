@@ -11,7 +11,7 @@ A simple, responsive FAQ accordion component built with HTML, CSS, and JavaScrip
 
 ## Live Demo 🌐
 
-[View Live Demo](https://your-username.github.io/faq-accordion/)
+[View Live Demo](https://faq-accordion-widget.vercel.app)
 
 ## Technologies Used 🔧
 
